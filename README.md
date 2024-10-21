@@ -1,4 +1,4 @@
-![Screenshot 2024-10-21 233252](https://github.com/user-attachments/assets/77167d9f-a281-4ecc-b7b2-e40c317ee502)🔢 Calculator App
+🔢 Calculator App
 
 Hey there! 👋 Welcome to my Calculator App — a simple yet powerful tool built with HTML, CSS, and JavaScript. Whether you need to crunch some numbers or just want a clean, responsive calculator, you’re in the right place! 😉
 

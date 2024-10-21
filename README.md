@@ -64,4 +64,4 @@ Got ideas to make this even cooler? Feel free to fork the repo, create an issue,
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-Thanks for checking it out! 🙌 If you like it, don’t forget to give it a ⭐ on GitHub!
+Thanks for checking it out! 🙌 If you like it, don’t forget to give it a ⭐

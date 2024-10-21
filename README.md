@@ -53,7 +53,7 @@ Usage
 🛠 Technologies Used
 
 - HTML for structure.
-- CSS3 for styling and layout.
+- CSS for styling and layout.
 - JavaScript for functionality and calculations.
 
 💡 Want to Contribute?

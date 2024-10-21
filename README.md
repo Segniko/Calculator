@@ -31,13 +31,13 @@ Installation
 1. Clone this repo to your computer using Git:
 
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Segniko/Calculator.git
    ```
 
 2. Navigate into the project folder:
 
    ```bash
-   cd calculator-app
+   cd Calculator
    ```
 
 3. Open `index.html` in your favorite browser and you're good to go!
